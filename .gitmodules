@@ -10,3 +10,6 @@
 [submodule "GraphQLBook"]
 	path = GraphQLBook
 	url = https://github.com/sonalisingh96/GraphQLBook
+[submodule "GraphQLExamples"]
+	path = GraphQLExamples
+	url = https://github.com/sonalisingh96/GraphQLExamples
