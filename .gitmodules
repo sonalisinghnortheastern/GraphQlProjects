@@ -1,3 +1,6 @@
 [submodule "BookGraphQLIntegration"]
 	path = BookGraphQLIntegration
 	url = https://github.com/sonalisingh96/BookGraphQLIntegration
+[submodule "BookGraphQL"]
+	path = BookGraphQL
+	url = https://github.com/sonalisingh96/BookGraphQL
